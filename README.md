@@ -1,2 +1,2 @@
-# TranzlateIjazah
+# TranslateIjazah
 Tugas Akhir Prak.RPL
